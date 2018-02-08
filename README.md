@@ -14,6 +14,14 @@
 
 - [Mocks and explicit contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
 
+### Frameworks
+
+- [phoenix](https://github.com/phoenixframework/phoenix) - A productive web framework that does not compromise speed and maintainability. [hex](https://hex.pm/packages/phoenix) | [docs](https://hexdocs.pm/phoenix/)
+
+### Database
+
+- [ecto](https://github.com/elixir-ecto/ecto) - A database wrapper and language integrated query for Elixir. [hex](https://hex.pm/packages/ecto) | [docs](https://hexdocs.pm/ecto/)
+
 ### Email
 
 - [Bamboo](https://github.com/thoughtbot/bamboo) - Elixir email library for devs that love piping. [hex](https://hex.pm/packages/bamboo) | [docs](https://hexdocs.pm/bamboo/readme.html)
@@ -37,6 +45,7 @@
 ### Security
 
 - [comeonin](https://github.com/riverrun/comeonin) - Password hashing library for Elixir. [hex](https://hex.pm/packages/comeonin) | [docs](https://hexdocs.pm/comeonin/)
+- [joken](https://github.com/bryanjos/joken) - Elixir JWT library. [hex](https://hex.pm/packages/joken) | [docs](https://hexdocs.pm/joken/)
 
 ## Frontend
 
@@ -66,18 +75,22 @@
 
 - [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears. [npm](https://www.npmjs.com/package/formik)
 
-## Event Emitter
+### Event Emitter
 
 - [mitt](https://github.com/developit/mitt) Tiny 200 byte functional event emitter / pubsub.
 
-## HTTP Client
+### HTTP Client
 
 - [axios](https://github.com/axios/axios) Promise based HTTP client for the browser and node.js.
 - [Wretch](https://github.com/elbywan/wretch) A tiny wrapper built around fetch with an intuitive syntax.
 
-## Utilities
+### Utilities
 
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. [npm](https://www.npmjs.com/package/lodash) | [docs](https://lodash.com/docs/)
+
+### CSS
+
+- [bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox. [npm](https://www.npmjs.com/package/bulma) | [docs](https://bulma.io/documentation/overview/start/)
 
 ## Transactional Emails
 
