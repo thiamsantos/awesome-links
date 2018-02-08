@@ -7,6 +7,7 @@
 - [Elixir](#elixir)
 - [Frontend](#frontend)
 - [Transactional Emails](#transactional-emails)
+- [Monitoring](#monitoring)
 
 ## Elixir
 
@@ -107,3 +108,11 @@
 - [Password reset email best practices](https://postmarkapp.com/guides/password-reset-email-best-practices)
 - [Transactional email best practices](https://postmarkapp.com/guides/transactional-email-best-practices)
 - [Welcome email best practices](https://postmarkapp.com/guides/welcome-email-best-practices)
+
+## Monitoring
+
+### Articles
+
+- [Monitoring 101: Collecting the right data](https://www.datadoghq.com/blog/monitoring-101-collecting-data/)
+- [Monitoring 101: Investigating performance issues](https://www.datadoghq.com/blog/monitoring-101-investigation/)
+- [Monitoring 101: Alerting on what matters](https://www.datadoghq.com/blog/monitoring-101-alerting/)
