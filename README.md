@@ -10,17 +10,33 @@
 
 ## Elixir
 
+### Articles
+
+- [Mocks and explicit contracts](http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/)
+
 ### Email
 
 - [Bamboo](https://github.com/thoughtbot/bamboo) - Elixir email library for devs that love piping. [hex](https://hex.pm/packages/bamboo) | [docs](https://hexdocs.pm/bamboo/readme.html)
+
+### Elasticsearch
+
+- [Elasticsearch](https://github.com/infinitered/elasticsearch-elixir) - No-nonsense Elasticsearch library for Elixir. [hex](https://hex.pm/packages/elasticsearch) | [docs](https://hexdocs.pm/elasticsearch/)
 
 ### Location
 
 - [geoip](https://github.com/navinpeiris/geoip) - Elixir library to find geo location information. [hex](https://hex.pm/packages/geoip) | [docs](https://hexdocs.pm/geoip/api-reference.html)
 
+### Device Detection
+
+- [UAParser](https://github.com/doomspork/ua_parser) - UserAgentParser implementation for Elixir. [hex](https://hex.pm/packages/ua_parser) | [docs](https://hexdocs.pm/ua_parser/)
+
 ### Captcha
 
 - [recaptcha](https://github.com/samueljseay/recaptcha) - A simple reCaptcha 2 library for Elixir applications. [hex](https://hex.pm/packages/recaptcha) | [docs](https://hexdocs.pm/recaptcha/)
+
+### Security
+
+- [comeonin](https://github.com/riverrun/comeonin) - Password hashing library for Elixir. [hex](https://hex.pm/packages/comeonin) | [docs](https://hexdocs.pm/comeonin/)
 
 ## Frontend
 
@@ -40,6 +56,7 @@
 ### Validation
 
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation. [npm](https://www.npmjs.com/package/yup)
+- [https://github.com/mailcheck/mailcheck](mailcheck) - Reduce misspelled email addresses in your web apps. [npm](https://www.npmjs.com/package/mailcheck)
 
 ### Date
 
@@ -71,3 +88,9 @@
 ### Templates
 
 - [postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid email templates for applications. 
+
+### Articles
+
+- [Password reset email best practices](https://postmarkapp.com/guides/password-reset-email-best-practices)
+- [Transactional email best practices](https://postmarkapp.com/guides/transactional-email-best-practices)
+- [Welcome email best practices](https://postmarkapp.com/guides/welcome-email-best-practices)
