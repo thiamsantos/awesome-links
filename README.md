@@ -62,6 +62,7 @@
 ### Lists
 
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data. [npm](https://www.npmjs.com/package/react-virtualized) | [docs](https://bvaughn.github.io/react-virtualized/#/components/List)
+- [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller) - Infinite scroll component for React in ES6. [npm](https://www.npmjs.com/package/react-infinite-scroller)
 
 ### Validation
 
