@@ -48,6 +48,10 @@
 - [comeonin](https://github.com/riverrun/comeonin) - Password hashing library for Elixir. [hex](https://hex.pm/packages/comeonin) | [docs](https://hexdocs.pm/comeonin/)
 - [joken](https://github.com/bryanjos/joken) - Elixir JWT library. [hex](https://hex.pm/packages/joken) | [docs](https://hexdocs.pm/joken/)
 
+### Validation
+
+- [skooma](https://github.com/bcoop713/skooma) - Elixir data validation library. [hex](https://hex.pm/packages/skooma) | [docs](https://hexdocs.pm/skooma/)
+
 ## Frontend
 
 ### Loader
@@ -67,7 +71,7 @@
 ### Validation
 
 - [yup](https://github.com/jquense/yup) - Dead simple Object schema validation. [npm](https://www.npmjs.com/package/yup)
-- [https://github.com/mailcheck/mailcheck](mailcheck) - Reduce misspelled email addresses in your web apps. [npm](https://www.npmjs.com/package/mailcheck)
+- [mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps. [npm](https://www.npmjs.com/package/mailcheck)
 
 ### Date
 
