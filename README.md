@@ -38,6 +38,7 @@
 ### Device Detection
 
 - [UAParser](https://github.com/doomspork/ua_parser) - UserAgentParser implementation for Elixir. [hex](https://hex.pm/packages/ua_parser) | [docs](https://hexdocs.pm/ua_parser/)
+- [elixir-browser](https://github.com/tuvistavie/elixir-browser) Browser detection for Elixir. [hex](https://hex.pm/packages/browser) | [docs](https://hexdocs.pm/browser/api-reference.html)
 
 ### Captcha
 
